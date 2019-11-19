@@ -18,6 +18,8 @@ CSDN入口：<a target="blank_" href="https://blog.csdn.net/qq_43539599/article/
 很快更新完毕...
 
 ## 2014年第五届蓝桥杯大学B组
+很快更新完毕...
 
-CSDN入口：<a target="blank_" href="https://blog.csdn.net/qq_43539599/article/details/103129565">【省赛B组】2019年第五届蓝桥杯（解法通用）</a><br>
-个人博客入口：<a target="blank_" href="https://www.hoji.site/blog/71">【省赛B组】2019年第五届蓝桥杯（解法通用）</a>
+## 2013年第四届蓝桥杯大学B组
+CSDN入口：<a target="blank_" href="https://blog.csdn.net/qq_43539599/article/details/103129565">【省赛B组】2019年第四届蓝桥杯（解法通用）</a><br>
+个人博客入口：<a target="blank_" href="https://www.hoji.site/blog/71">【省赛B组】2019年第四届蓝桥杯（解法通用）</a>
